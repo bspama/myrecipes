@@ -26,7 +26,7 @@ This app contains 4 files
                     js/index.js
                     js/recipeManager.js
                     images/4ingredientbglg.jpeg
-       Website will be accessible via https://bspama.github.io/myrecipes/       
+       Website will be accessible via https://bspama.github.io/myrecipes/index.html      
 
 ### Technologies Used ###
       This simple web app uses a HTML, BOOTSTRAP CSS AND VANILLA JAVASCRIPT and all Data are saved into the Local Storage.
